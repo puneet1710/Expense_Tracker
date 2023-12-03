@@ -1,0 +1,12 @@
+body{
+  align-items: center;
+  justify-content: center;
+}
+.app{
+  margin-left: 600px;
+}
+
+h1{
+  margin-left: 650px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
